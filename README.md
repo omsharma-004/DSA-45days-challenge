@@ -4,9 +4,9 @@ Welcome to my repository for the 45 Days DSA Challenge! This challenge, initiate
 
 ## Challenge Overview
 
-- **Challenge Link:** [Pro Elevate DSA Practice](https://www.proelevate.in/dsa-practic...)
-- **DSA Sheet:** [Google Sheets](https://docs.google.com/spreadsheets/...)
-- **Rules:** [Google Document](https://docs.google.com/document/d/1L...)
+- **Challenge Link:** [Pro Elevate DSA Practice](https://www.proelevate.in/dsa-practice/arsh-dsa-sheet)
+- **DSA Sheet:** [Google Sheets](https://docs.google.com/spreadsheets/d/1r35qSXY6rSAonFbPEKB_KXUvpCIBbVGMp5001MaNb3c/edit?gid=0#gid=0)
+- **Rules:** [Google Document](https://docs.google.com/document/d/1Lzgo8jmu_aEhx2LinHPVBH6h3O94W8dEMfVspsmeVFY/edit)
 
 ## About the Challenge
 
