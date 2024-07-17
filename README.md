@@ -71,7 +71,7 @@ Stay tuned for updates as I embark on this learning journey!
 
 ## About Arsh Goyal
 
-This challenge is created by Arsh Goyal, a YouTuber dedicated to helping students and professionals excel in their coding interviews and assessments. Check out his channel for more resources and guidance.
+This challenge is created by Arsh Goyal, a YouTuber dedicated to helping students and professionals excel in their coding interviews and assessments. Check out his [channel](https://www.youtube.com/@ArshGoyal) for more resources and guidance.
 
 ## Contact
 
