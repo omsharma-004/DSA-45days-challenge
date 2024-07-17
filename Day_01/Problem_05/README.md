@@ -42,6 +42,7 @@ public:
         return head;  // Return the modified head of the list
     }
 };
+```
 
 ## Explanation
 - **Initialization:** `head` is checked and adjusted initially if it matches `val`, ensuring the function handles cases where the first node(s) match.
@@ -49,4 +50,3 @@ public:
 - **Memory Management:** Nodes are properly deleted (`delete temp`) after they are removed from the list to prevent memory leaks.
 - **Return:** The modified `head` pointer is returned, which now points to the head of the linked list after all nodes with `val` have been removed.
 This approach has O(n) time complexity, where n is the number of nodes in the linked list, and O(1) space complexity since we use only a constant amount of extra space regardless of the input size.
-```
