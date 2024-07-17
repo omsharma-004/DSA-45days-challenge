@@ -31,7 +31,7 @@ public:
         return decimal_value;  // Return the final decimal value
     }
 };
-
+```
 ## Explanation:
 
 - **Initialization:** `decimal_value` is initialized to 0 to store the result of the conversion.
@@ -40,4 +40,3 @@ public:
 - **Return:** Finally, `decimal_value` is returned as the integer representation of the linked list.
 
 This approach has O(n) time complexity, where n is the number of nodes in the linked list, and O(1) space complexity since we only use a constant amount of extra space regardless of the input size.
-```
