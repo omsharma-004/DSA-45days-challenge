@@ -30,6 +30,7 @@ public:
         return slow;  // Return the middle node or the second middle node in case of even number of nodes
     }
 };
+```
 ## Explanation
 - **Initialization:**
     - `slow` and `fast` pointers are initialized to the head of the linked list (`head`). This sets up the pointers for traversal.
@@ -41,4 +42,3 @@ public:
     - This effectively makes `slow` traverse half the speed of `fast`, leading `slow` to the middle node when `fast` reaches the end of the list.
 - **Return:**
     - After the loop terminates (`fast` reaches `NULL` or `fast->next` reaches `NULL`), `slow` points to the middle node of the linked list (or the second middle node if the list has an even number of nodes).
-```
