@@ -2,6 +2,17 @@
 
 Welcome to my repository for the 45 Days DSA Challenge! This challenge, initiated by YouTuber Arsh Goyal, aims to prepare participants for DSA interviews and online assessments. I am excited to share my progress and solutions here.
 
+## Table of Contents
+- [Challenge Overview](#challenge-overview)
+- [About the Challenge](#about-the-challenge)
+- [Benefits](#benefits)
+- [My Progress](#my-progress)
+- [Goals](#goals)
+- [Daily Progress](#daily-progress)
+- [Coding Solutions](#coding-solutions)
+- [About Arsh Goyal](#about-arsh-goyal)
+- [Contact](#contact)
+
 ## Challenge Overview
 
 - **Challenge Link:** [Pro Elevate DSA Practice](https://www.proelevate.in/dsa-practice/arsh-dsa-sheet)
@@ -29,6 +40,34 @@ I am gearing up to participate in the **45 Days DSA Challenge** by Arsh Goyal. H
 - **Document:** Record solutions, notes, and insights for each day’s problems.
 
 Stay tuned for updates as I embark on this learning journey!
+
+## Daily Progress
+
+- **Day 1:**
+  - [Problem 1: Problem Name](./Day_01/Problem_01/README.md)
+  - [Problem 2: Problem Name](./Day_01/Problem_02/README.md)
+- **Day 2:**
+  - [Problem 3: Problem Name](./Day_02/Problem_03/README.md)
+  - [Problem 4: Problem Name](./Day_02/Problem_04/README.md)
+- **Day 3:**
+  - [Problem 5: Problem Name](./Day_03/Problem_05/README.md)
+  - [Problem 6: Problem Name](./Day_03/Problem_06/README.md)
+- **Day 4:**
+  - [Problem 7: Problem Name](./Day_04/Problem_07/README.md)
+
+## Coding Solutions
+
+- **Day 1:**
+  - [Problem 1: Problem Name](./Day_01/Problem_01/solution.cpp)
+  - [Problem 2: Problem Name](./Day_01/Problem_02/solution.cpp)
+- **Day 2:**
+  - [Problem 3: Problem Name](./Day_02/Problem_03/solution.cpp)
+  - [Problem 4: Problem Name](./Day_02/Problem_04/solution.cpp)
+- **Day 3:**
+  - [Problem 5: Problem Name](./Day_03/Problem_05/solution.cpp)
+  - [Problem 6: Problem Name](./Day_03/Problem_06/solution.cpp)
+- **Day 4:**
+  - [Problem 7: Problem Name](./Day_04/Problem_07/solution.cpp)
 
 ## About Arsh Goyal
 
