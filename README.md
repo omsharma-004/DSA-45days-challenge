@@ -44,29 +44,25 @@ Stay tuned for updates as I embark on this learning journey!
 ## Daily Progress
 
 - **Day 1:**
-  - [Problem 1: Problem Name](./Day_01/Problem_01/README.md)
-  - [Problem 2: Problem Name](./Day_01/Problem_02/README.md)
+  - [Problem 1: Middle Node of Linked List](./Day_01/Problem_01/README.md)
+  - [Problem 2: Linked List Cycle](./Day_01/Problem_02/README.md)
+  - [Problem 3: Convert Binary Number in a Linked List to Integer](./Day_01/Problem_03/README.md)
+  - [Problem 4: Remove Duplicates from Sorted List](./Day_01/Problem_04/README.md)
+  - [Problem 5: Remove Linked List Elements](./Day_01/Problem_05/README.md)
 - **Day 2:**
-  - [Problem 3: Problem Name](./Day_02/Problem_03/README.md)
-  - [Problem 4: Problem Name](./Day_02/Problem_04/README.md)
-- **Day 3:**
-  - [Problem 5: Problem Name](./Day_03/Problem_05/README.md)
   - [Problem 6: Problem Name](./Day_03/Problem_06/README.md)
-- **Day 4:**
   - [Problem 7: Problem Name](./Day_04/Problem_07/README.md)
 
 ## Coding Solutions
 
 - **Day 1:**
-  - [Problem 1: Problem Name](./Day_01/Problem_01/solution.cpp)
-  - [Problem 2: Problem Name](./Day_01/Problem_02/solution.cpp)
+  - [Problem 1: Middle Node of Linked List](./Day_01/Problem_01/solution.cpp)
+  - [Problem 2: Linked List Cycle](./Day_01/Problem_02/solution.cpp)
+  - [Problem 3: Convert Binary Number in a Linked List to Integer](./Day_01/Problem_03/solution.cpp)
+  - [Problem 4: Remove Duplicates from Sorted List](./Day_01/Problem_04/solution.cpp)
+  - [Problem 5: Remove Linked List Elements](./Day_01/Problem_05/solution.cpp)
 - **Day 2:**
-  - [Problem 3: Problem Name](./Day_02/Problem_03/solution.cpp)
-  - [Problem 4: Problem Name](./Day_02/Problem_04/solution.cpp)
-- **Day 3:**
-  - [Problem 5: Problem Name](./Day_03/Problem_05/solution.cpp)
   - [Problem 6: Problem Name](./Day_03/Problem_06/solution.cpp)
-- **Day 4:**
   - [Problem 7: Problem Name](./Day_04/Problem_07/solution.cpp)
 
 ## About Arsh Goyal
