@@ -37,9 +37,7 @@ I am gearing up to participate in the **45 Days DSA Challenge** by Arsh Goyal. H
 
 - **Understand:** Gain a solid understanding of fundamental DSA concepts.
 - **Practice:** Implement solutions in various programming languages.
-- **Document:** Record solutions, notes, and insights for each day’s problems.
-
-Stay tuned for updates as I embark on this learning journey!
+- **Document:** Record solutions for each day’s problems.
 
 ## Daily Progress
 
