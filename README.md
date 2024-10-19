@@ -1,6 +1,6 @@
 # 45 Days DSA Challenge by Arsh Goyal
 
-Welcome to my repository for the 45 Days DSA Challenge! This challenge, initiated by YouTuber Arsh Goyal, aims to prepare participants for DSA interviews and online assessments. I am excited to share my progress and solutions here.
+Welcome to my repository for the 45 Days DSA Challenge!! This challenge, initiated by YouTuber Arsh Goyal, aims to prepare participants for DSA interviews and online assessments. I am excited to share my progress and solutions here.
 
 ## Table of Contents
 - [Challenge Overview](#challenge-overview)
